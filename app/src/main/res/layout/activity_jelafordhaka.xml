@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    tools:context="com.example.admin.bangladesh.MainActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp"
+
+        >
+
+        <Button
+            android:id="@+id/kishoreganjDistrictId"
+            android:text="কিশোরগঞ্জ"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+
+
+            />
+
+        <Button
+            android:id="@+id/gazipurDistrictId"
+            android:text="গাজীপুর"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+
+            />
+
+        <Button
+            android:id="@+id/gopalganjDistrictId"
+            android:text="গোপালগঞ্জ"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+
+            />
+        <Button
+            android:id="@+id/tangailDistrictId"
+            android:text="টাঙ্গাইল"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+
+            />
+
+        <Button
+            android:id="@+id/dhakaDistrictId"
+            android:text="ঢাকা"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <Button
+            android:id="@+id/narsingdiDistrictId"
+            android:text="নরসিংদী"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <Button
+            android:id="@+id/narayanganjDistrictId"
+            android:text="নারায়ণগঞ্জ"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <Button
+            android:id="@+id/faridpurDistrictId"
+            android:text="ফরিদপুর"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <Button
+            android:id="@+id/madaripurDistrictId"
+            android:text="মাদারিপুর"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <Button
+            android:id="@+id/manikganjDistrictId"
+            android:text="মানিকগঞ্জ"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+            />
+        <Button
+            android:id="@+id/munshiganjDistrictId"
+            android:text="মুন্সিগঞ্জ"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <Button
+            android:id="@+id/rajbariDistrictId"
+            android:text="রাজবাড়ী"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <Button
+            android:id="@+id/shariatpurDistrictId"
+            android:text="শরিয়তপুর"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+
+            />
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>

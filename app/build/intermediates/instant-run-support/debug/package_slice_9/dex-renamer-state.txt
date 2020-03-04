@@ -1,0 +1,4 @@
+#Thu Sep 06 01:47:48 BDT 2018
+base.0=C\:\\Users\\Admin\\Desktop\\dice\\Animation project\\Bangladesh\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admin.bangladesh">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".jela" />
+        <activity android:name=".jelafordhaka" />
+        <activity android:name=".SyletZella" />
+        <activity android:name=".D_Chittagong" />
+        <activity android:name=".D_Barisal" />
+        <activity android:name=".D_Mymensingh" />
+        <activity android:name=".D_Rangpur" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".z_khulna" />
+        <activity android:name=".DahakProfile" />
+        <activity android:name=".ChittagongProfile" />
+        <activity android:name=".RajshahiProfile"></activity>
+    </application>
+
+</manifest>
